@@ -95,6 +95,8 @@ GitHub is a very good way for teams to collaborate on projects, but you can only
 
 To do this, we will create a new web application in the Azure Portal: New --> Web + Mobile --> Web App.
 
+![](media/azure-new-web-app.png)
+
 Add the name of your website, a resource group and a service plan, which are only some logical ways of grouping multiple projects (we will not get into specific Azure details at this point, we only want our website up and running).
 
 > Note that this has to be globally unique, and the name you select will be part of the domain.
